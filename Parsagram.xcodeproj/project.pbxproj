@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F087593254D243400025B59 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F087592254D243400025B59 /* CommentCell.swift */; };
 		3F5E65E52546438F00BCE6FF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5E65E42546438F00BCE6FF /* AppDelegate.swift */; };
 		3F5E65E72546438F00BCE6FF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F5E65E62546438F00BCE6FF /* SceneDelegate.swift */; };
 		3F5E65EC2546438F00BCE6FF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F5E65EA2546438F00BCE6FF /* Main.storyboard */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F087592254D243400025B59 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		3F5E65E12546438F00BCE6FF /* Parsagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parsagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F5E65E42546438F00BCE6FF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3F5E65E62546438F00BCE6FF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -84,6 +86,7 @@
 				3F8026CC254654B000F00F35 /* CameraViewController.swift */,
 				3F8026C5254647E300F00F35 /* LoginViewController.swift */,
 				3F8026C8254647F300F00F35 /* FeedViewController.swift */,
+				3F087592254D243400025B59 /* CommentCell.swift */,
 				3F5E65ED2546439100BCE6FF /* Assets.xcassets */,
 				3F5E65EF2546439100BCE6FF /* LaunchScreen.storyboard */,
 				3F5E65F22546439100BCE6FF /* Info.plist */,
@@ -220,6 +223,7 @@
 				3F5E65E52546438F00BCE6FF /* AppDelegate.swift in Sources */,
 				3F5E65E72546438F00BCE6FF /* SceneDelegate.swift in Sources */,
 				3F8026D72546616400F00F35 /* PostCell.swift in Sources */,
+				3F087593254D243400025B59 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
